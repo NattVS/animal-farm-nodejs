@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            nattVS/animal-farm-nodejs:latest
-            ghcr.io/nattVS/animal-farm-nodejs:latest
+            nattvs/animal-farm-nodejs:latest
+            ghcr.io/nattvs/animal-farm-nodejs:latest
